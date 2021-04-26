@@ -1,4 +1,4 @@
-# `DBSCAN on the World Maps`
+# `DBSCAN on the World Maps` ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 Finding clusters from nearby large cities around the world (meropolian areas) by using DBSCAN technique
 
 # Case description
